@@ -41,21 +41,21 @@ class Song
     end
   end
   
-  def self.alphabetical
+  #def self.alphabetical
     
-  end
+  #end
   
-  def self.new_from_filename
+  #def self.new_from_filename
     
-  end
+  #end
   
-  def self.create_from_filename
+  #def self.create_from_filename
     
-  end
+  #end
   
-  def self.destroy_all
+  #def self.destroy_all
     
-  end
+  #end
 
 
 
