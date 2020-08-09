@@ -39,21 +39,19 @@ class Song
   
   def self.alphabetical
     @@all.sort{ |a,b| a.name <=> b.name }
-    
+  end
+  
+  def self.new_from_filename
     
   end
   
-  #def self.new_from_filename
+  def self.create_from_filename
     
-  #end
+  end
   
-  #def self.create_from_filename
+  def self.destroy_all
     
-  #end
-  
-  #def self.destroy_all
-    
-  #end
+  end
 
 
 
